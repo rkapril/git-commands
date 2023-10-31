@@ -1,4 +1,6 @@
 # git-commands
+![image](https://github.com/rkapril/git-commands/assets/61505106/c73bf742-402b-46c3-ad9f-44993a62d4b7)
+
 ```
 // Create new folder
 mkdir Story
