@@ -1,4 +1,4 @@
-# git-commands
+ut # git-commands
 ![image](https://github.com/rkapril/git-commands/assets/61505106/ed08bd6a-27cb-4428-8987-0f20e31c8489)
 
 ```
@@ -49,7 +49,8 @@ git log
 ```
 // Rollback
 git diff chapter3.txt
-git checkout chapter3.txt
+git checkout chapter3.txt // undo 
+git reset --hard HEAD~ // previous commit
 ```
 ```
 // Create gitignore file
