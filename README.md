@@ -58,4 +58,5 @@ touch .gitignore
 ```
 // Remove files from the staging area
 git rm --cached -r .
+git reset
 ```
