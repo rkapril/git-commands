@@ -55,3 +55,7 @@ git checkout chapter3.txt
 // Create gitignore file
 touch .gitignore
 ```
+```
+// Remove files from the staging area
+git rm --cached -r .
+```
