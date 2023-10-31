@@ -51,3 +51,7 @@ git log
 git diff chapter3.txt
 git checkout chapter3.txt
 ```
+```
+// Create gitignore file
+touch .gitignore
+```
