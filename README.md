@@ -1,6 +1,5 @@
 # git-commands
-![image](https://github.com/rkapril/git-commands/assets/61505106/8e451bc5-95a7-4754-b874-0d69625bc5da)
-
+![image](https://github.com/rkapril/git-commands/assets/61505106/ad15d98b-6c1d-468c-86a3-6f2d4dca9040)
 
 ```
 // Create new folder
