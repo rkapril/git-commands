@@ -1,7 +1,7 @@
 # git-commands
 ```
 // Create new folder
-mkdir 
+mkdir Story
 
 // Change directory
 cd Story
