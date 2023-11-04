@@ -1,4 +1,4 @@
-ut # git-commands
+# git-commands
 ![image](https://github.com/rkapril/git-commands/assets/61505106/ed08bd6a-27cb-4428-8987-0f20e31c8489)
 
 ```
